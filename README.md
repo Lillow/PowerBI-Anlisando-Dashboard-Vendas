@@ -6,5 +6,5 @@
 
 <h2>Relatório Gerencial de vendas</h2>
 
-Desafios estabelecidos pela DIO - [Digital Inoovation One](https://www.dio.me/), bootecmap Sysvision - Data Analytics com Power BI.
+Desafios estabelecidos pela DIO - [Digital Inoovation One](https://www.dio.me/), NTT DATA - Engenharia de Dados com Python.
 
